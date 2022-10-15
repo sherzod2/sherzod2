@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherzod</h1>
 <h3 align="center">A passionate software developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherzod2&label=Profile%20views&color=0e75b6&style=flat" alt="sherzod2" /> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherzod2&show_icons=true&locale=en&layout=compact" alt="sherzod2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherzod2&show_icons=true&locale=en" alt="sherzod2" /></p>
