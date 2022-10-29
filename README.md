@@ -23,18 +23,6 @@
 
 </div>
 
-
-<div align="center">
-
-  `Java Backend Developer`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
-</div>
-
 <div>
 
   ## 🛠 &nbsp;My Tech Stacks
